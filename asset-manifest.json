@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/thisIsme/static/css/main.b2e55f70.css",
+    "main.js": "/thisIsme/static/js/main.94f272ac.js",
+    "static/js/787.d253c66c.chunk.js": "/thisIsme/static/js/787.d253c66c.chunk.js",
+    "static/media/s2.png": "/thisIsme/static/media/s2.714b131c1f365baaf0a0.png",
+    "static/media/s1.png": "/thisIsme/static/media/s1.faebdb8d2b77b796137c.png",
+    "static/media/banner-bg.png": "/thisIsme/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/thisIsme/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/saya.jpeg": "/thisIsme/static/media/saya.56b714effcb1a9c979d2.jpeg",
+    "static/media/tic.png": "/thisIsme/static/media/tic.6b76b82681b1becb5c69.png",
+    "static/media/CentraNo2-Bold.ttf": "/thisIsme/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/thisIsme/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/thisIsme/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/1.jpg": "/thisIsme/static/media/1.f17c94cb62e5be91caa9.jpg",
+    "static/media/quran.jpg": "/thisIsme/static/media/quran.0df87dd486cfd009406b.jpg",
+    "static/media/logo.png": "/thisIsme/static/media/logo.7515bd85083d8e611d76.png",
+    "index.html": "/thisIsme/index.html",
+    "main.b2e55f70.css.map": "/thisIsme/static/css/main.b2e55f70.css.map",
+    "main.94f272ac.js.map": "/thisIsme/static/js/main.94f272ac.js.map",
+    "787.d253c66c.chunk.js.map": "/thisIsme/static/js/787.d253c66c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e55f70.css",
+    "static/js/main.94f272ac.js"
+  ]
+}
